@@ -1,5 +1,7 @@
 # Translate Visualizer
 
+![Screenshot of the visualizer](/misc/screenshot.png)
+
 Small local web app for inspecting multilingual conversation JSONL files.
 
 It serves a single HTML page via Python and lets you:
